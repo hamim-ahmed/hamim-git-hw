@@ -1,3 +1,4 @@
 char* hamim(){
-return “hamim”;
+int a = 10;
+return “Hamim-ahmed-komol”;
 }
