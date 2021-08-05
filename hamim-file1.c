@@ -1,0 +1,3 @@
+char* hamim(){
+return “hamim”;
+}
